@@ -1,0 +1,6 @@
+{
+  "listen_port": "8080",
+  "shutdown_port": "8081",
+  "seed_servers": ["192.168.0.181:8080", "192.168.0.181:9090"],
+  "check_interval": 10
+}
